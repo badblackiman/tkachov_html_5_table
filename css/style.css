@@ -1,0 +1,29 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+table {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+td, tr {
+    width: 70px;
+    height: 70px;
+    border: 10px solid #000;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.gray{
+    background-color: gray;
+}
+.blue{
+    background-color: blue;
+}
+.r9 td{
+    width: 280px;
+    height: 70px;
+}
